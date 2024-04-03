@@ -5,14 +5,14 @@ labels: bug
 body:
   - type: markdown
     attributes:
-      value: "## ברוכה הבאה!"
+      value: "## Wellcome!"
   - type: markdown
     attributes:
-      value: "מוזמנת להעלות את הבעיה בה נתקלת, השתדלי לספק את מירב המידע והפרטים על המקרה כדי לאפשר עזרה מהירה וממוקדת."
+      value: "come on."
   - type: dropdown
     id: version
     attributes:
-      label: "גירסת דוטנט"
+      label: ".NET Version"
       options:
         - .NET 8
         - .NET 7
@@ -22,7 +22,7 @@ body:
   - type: input
     id: github-link
     attributes:
-      label: "קישור לריפו בגיטהאב (חובה Public)"
+      label: "link to GitHub"
     validations:
       required: true
 ---
