@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: השתמשי בתבנית זו לפתיחת באג.
+about: "השתמשי בתבנית זו לפתיחת באג."
 labels: bug
 body:
 - type: markdown
@@ -12,7 +12,7 @@ body:
 - type: dropdown
   id: version
   attributes:
-    label: גירסת דוטנט
+    label: "גירסת דוטנט"
     options:
       - .NET 8
       - .NET 7
@@ -22,7 +22,7 @@ body:
 - type: input
   id: github-link
   attributes:
-    label: קישור לריפו בגיטהאב (חובה Public)
+    label: "קישור לריפו בגיטהאב (חובה Public)"
   validations:
     required: true
 ---
