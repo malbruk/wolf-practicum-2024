@@ -20,11 +20,10 @@ body:
       - .NET 6
   validations:
     required: true
--type: input
+- type: input
   id: github-link
   attributes:
     label: קישור לריפו בגיטהאב (חובה Public)
   validations:
     required: true
-  
 ---
