@@ -1,6 +1,6 @@
 ---
 name: Bug
-description: השתמשי בתבנית זו לפתיחת באג.
+about: השתמשי בתבנית זו לפתיחת באג.
 labels: bug
 body:
 - type: markdown
