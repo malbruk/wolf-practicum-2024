@@ -1,25 +1,21 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug
+about: "השתמשי בתבנית זו לפתיחת באג."
 title: ''
-labels: ''
-assignees: ''
+labels: 'bug'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**תארי את הבאג**
+רשמי תיאור קצר וממוקד של המקרה
+**שחזור המקרה**
+רשמי מהם הצעדים שיש לבצע כדי לשחזר את הבעיה:
+1. הריצי את הקוד
+2. לחצי על...
+3. ראי את השגיאה
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
+**התנהגות תקינה**
+רשמי תיאור קצר וממוקד של התנהגות תקינה שאת מצפה לה.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
