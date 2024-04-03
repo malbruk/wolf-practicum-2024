@@ -2,17 +2,18 @@
 name: Bug
 about: "השתמשי בתבנית זו לפתיחת באג."
 labels: bug
+description: "מה יש כאן?"
 body:
   - type: markdown
     attributes:
-      value: "## Wellcome!"
+      value: "## ברוכה הבאה!"
   - type: markdown
     attributes:
-      value: "come on."
+      value: "מוזמנת להעלות את הבעיה בה נתקלת, השתדלי לספק את מירב המידע והפרטים על המקרה כדי לאפשר עזרה מהירה וממוקדת."
   - type: dropdown
     id: version
     attributes:
-      label: ".NET Version"
+      label: "גירסת דוטנט"
       options:
         - .NET 8
         - .NET 7
@@ -22,7 +23,7 @@ body:
   - type: input
     id: github-link
     attributes:
-      label: "link to GitHub"
+      label: "קישור לריפו בגיטהאב (חובה Public)"
     validations:
       required: true
 ---
